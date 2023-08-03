@@ -17,3 +17,5 @@ buah wadah 1 = 260
 buah wadah 2 = 100
 
 #Answer 4
+@penulisan buah apel dan kurma membinggungkan , perlu konsistensi penulisan variabel
+@ada redudant id data =5, seharusnya dibuat lebih konsisten lagi , jangan ada duplikat
