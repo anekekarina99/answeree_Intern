@@ -43,6 +43,15 @@ type IComment = {
 
   
   function countNum(comments: IComment[]): number {
-    
+    let count = comments.length;
+    for (const comment of comments) {
+      if (comment.replies) {
+        count += countNum(comment.replies);
+      }
+    }
+    return count;
     
   }
+
+  const totalCom = countNum(comments);
+  console.log('Total komentar :' ,totalCom);
