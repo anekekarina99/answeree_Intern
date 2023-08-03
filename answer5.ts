@@ -44,4 +44,5 @@ type IComment = {
   
   function countNum(comments: IComment[]): number {
     
+    
   }
