@@ -12,3 +12,8 @@ buah buah di masing wadah adalah sebagai berikut :
 wadah 1 LOCAL terdiri atas = Manggis,jeruk bali, salak
 wadah 2 IMPORT terdiri atas = apel dan Kurma
 
+#Answer 3
+buah wadah 1 = 260
+buah wadah 2 = 100
+
+#Answer 4
