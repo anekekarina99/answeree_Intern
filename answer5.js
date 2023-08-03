@@ -40,4 +40,8 @@ type IComment = {
       commentContent: 'Halooo',
     },
   ];
+
   
+  function countNum(comments: IComment[]): number {
+    
+  }
