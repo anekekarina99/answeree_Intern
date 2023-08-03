@@ -6,3 +6,9 @@
 5. Salak
 
 #Answer 2
+untuk berdasarkan tipe wadah, dibagi menjadi dua, yakni wadah tipe 'LOCAL' dan 'IMPORT'
+buah buah di masing wadah adalah sebagai berikut :
+
+wadah 1 LOCAL terdiri atas = Manggis,jeruk bali, salak
+wadah 2 IMPORT terdiri atas = apel dan Kurma
+
